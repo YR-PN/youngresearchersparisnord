@@ -1,4 +1,4 @@
-# Bichat Young Researchers website
+# Bichat-Beaujon Young Researchers website
 
 A lightweight, GDPR-compliant conference website for abstract submissions built with static HTML, CSS, and no backend dependencies.
 

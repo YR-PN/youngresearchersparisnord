@@ -213,7 +213,7 @@
 
             <div class="nav-brand">
                 <a href="${basePath}/index.html">
-                    <h1>Bichat Young Researchers</h1>
+                    <h1>Bichat-Beaujon Young Researchers</h1>
                 </a>
             </div>
 
@@ -232,6 +232,7 @@
                         <li><a href="${basePath}/pages/call-for-papers.html">Call for Abstracts</a></li>
                         <li><a href="${basePath}/pages/submit-abstract.html">Submit Abstract</a></li>
                         <li><a href="${basePath}/pages/schedule.html">BYRD Schedule</a></li>
+                        <li><a href="${basePath}/pages/sponsors.html">Our sponsors</a></li>
                     </ul>
                 </li>
                 <li><a href="${basePath}/pages/about.html">About us</a></li>
