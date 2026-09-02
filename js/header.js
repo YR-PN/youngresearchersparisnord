@@ -6,7 +6,7 @@
                       currentPath.endsWith('schedule.html') || currentPath.endsWith('about.html') ||
                       currentPath.endsWith('privacy.html') || currentPath.endsWith('terms.html') ||
                       currentPath.endsWith('team.html') || currentPath.endsWith('thank-you.html') ||
-                      currentPath.endsWith('registration-confirmation.html');
+                      currentPath.endsWith('registration-confirmation.html') || currentPath.endsWith('sponsors.html');
     
     // For local files and GitHub Pages subdirectories
     let basePath;
